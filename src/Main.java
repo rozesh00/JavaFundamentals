@@ -6,6 +6,12 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome to Java programming fundamentals");
 
+        int x =8;
+        int y=9;
+        int  z = x+9;
+
+        System.out.println(z);
+
 
 
     }
