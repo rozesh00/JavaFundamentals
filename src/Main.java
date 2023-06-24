@@ -11,6 +11,8 @@ public class Main {
         int  z = x+9;
 
         System.out.println(z);
+        System.out.println(y);
+
 
 
 
